@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Document AI - Key Information Extraction System
 
 Production-ready pipeline for **Key Information Extraction** from business documents using **LayoutLM-V2** and multi-modal NER models.
@@ -72,3 +73,6 @@ my-project/
 │   └── train_config.yaml
 └── README.md
 ```
+=======
+# PROJECT AI
+>>>>>>> d36abaefb98f5794b1998d38603be3c474163516
