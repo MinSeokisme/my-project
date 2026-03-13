@@ -1,2 +1,1 @@
-# intanfiles
-file intan
+# PROJECT AI
